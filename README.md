@@ -1,1 +1,3 @@
-# vixay-api
+# Installition
+
+`npm i vixayapi --save`
