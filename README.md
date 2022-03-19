@@ -3,5 +3,4 @@
 **Ayrıca şuanda projede dosya bulunmamaktadır çünkü yapımdadır.** 
 
 ##Installition
-
 `npm i vixayapi --save`
